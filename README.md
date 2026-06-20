@@ -124,8 +124,7 @@ The **TOTAL Status** blueprint demonstrates that the Yang–Mills mass gap is no
 
 This blueprint is released under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license. You are free to use, share, and build upon it, provided you give appropriate credit to the collaborative effort that produced it.
 
-**Authors:**  
-The product of a deep dialogue between a human researcher and an AI assistant, aiming to bridge rigorous mathematics with empirical reality.
+**email: totalprotocol@proton.me
 
 ---
 
